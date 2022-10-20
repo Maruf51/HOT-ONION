@@ -1,0 +1,134 @@
+{
+    "breakfast": [
+        {
+            "id": 1,
+            "name": "Bagel and Cream cheese",
+            "image": "https://ik.imagekit.io/znex04bydzr/breakfast/breakfast4_pkv6MJF5D.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666169418819",
+            "price": 6.99,
+            "description": "How we dream about our future"
+        },
+        {
+            "id": 2,
+            "name": "Breakfast Sandwitch",
+            "image": "https://ik.imagekit.io/znex04bydzr/breakfast/breakfast2_fwgvYbxh_T.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666169418994",
+            "price": 9.99,
+            "description": "How we dream about our future"
+        },
+        {
+            "id": 3,
+            "name": "Baked Chicken",
+            "image": "https://ik.imagekit.io/znex04bydzr/breakfast/breakfast3_M-NhPV-wi.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666169418399",
+            "price": 10.99,
+            "description": "How we dream about our future"
+        },
+        {
+            "id": 4,
+            "name": "Eggs Benedict",
+            "image": "https://ik.imagekit.io/znex04bydzr/breakfast/breakfast1_HvpzgS-1u.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666169418520",
+            "price": 8.99,
+            "description": "How we dream about our future"
+        },
+        {
+            "id": 5,
+            "name": "Toast Croissant Fried Egg",
+            "image": "https://ik.imagekit.io/znex04bydzr/breakfast/breakfast6_NPaF5CdqG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666169418575",
+            "price": 19.99,
+            "description": "How we dream about our future"
+        },
+        {
+            "id": 6,
+            "name": "Full Breakfast Fried Egg Toast Brunch",
+            "image": "https://ik.imagekit.io/znex04bydzr/breakfast/breakfast5_5RhisN6W7.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666169418809",
+            "price": 3.99,
+            "description": "How we dream about our future"
+        }
+    ],
+    "lunch": [
+        {
+            "id": 7,
+            "name": "Healthy Meal Plan",
+            "image": "https://ik.imagekit.io/znex04bydzr/lunch/lunch6_UUtQy1JG_o.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666169481048",
+            "price": 23.99,
+            "description": "How we dream about our future"
+        },
+        {
+            "id": 8,
+            "name": "Fried Chicken Bento",
+            "image": "https://ik.imagekit.io/znex04bydzr/lunch/lunch5_JdPRziDrZ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666169481042",
+            "price": 9.99,
+            "description": "How we dream about our future"
+        },
+        {
+            "id": 9,
+            "name": "Tarragon Rubbed Salmon",
+            "image": "https://ik.imagekit.io/znex04bydzr/lunch/lunch3_9UuKWGKn2U.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666169480960",
+            "price": 6.99,
+            "description": "How we dream about our future"
+        },
+        {
+            "id": 10,
+            "name": "Indian Lunch",
+            "image": "https://ik.imagekit.io/znex04bydzr/lunch/lunch4_3PZ18skaq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666169481263",
+            "price": 8.99,
+            "description": "How we dream about our future"
+        },
+        {
+            "id": 11,
+            "name": "Beef Steak",
+            "image": "https://ik.imagekit.io/znex04bydzr/lunch/lunch1_dnNaH0iO1L.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666169480302",
+            "price": 15.99,
+            "description": "How we dream about our future"
+        },
+        {
+            "id": 12,
+            "name": "Honey Soy Glazed Salmon with Peppers",
+            "image": "https://ik.imagekit.io/znex04bydzr/lunch/lunch2_sNHGOoT-H.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666169480760",
+            "price": 7.99,
+            "description": "How we dream about our future"
+        }
+    ],
+    "dinner": [
+        {
+            "id": 13,
+            "name": "Salmon with Grapefruit and Lentil Salad",
+            "image": "https://ik.imagekit.io/znex04bydzr/dinner/dinner6_HF_qyaVG2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666169460663",
+            "price": 9.99,
+            "description": "How we dream about our future"
+        },
+        {
+            "id": 14,
+            "name": "Lemony Salmon Piccata",
+            "image": "https://ik.imagekit.io/znex04bydzr/dinner/dinner2_rJ9QSjBoI.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666169462408",
+            "price": 10.99,
+            "description": "How we dream about our future"
+        },
+        {
+            "id": 15,
+            "name": "Pork Tenderloin",
+            "image": "https://ik.imagekit.io/znex04bydzr/dinner/dinner5_G9EQXfuyH.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666169463083",
+            "price": 12.99,
+            "description": "How we dream about our future"
+        },
+        {
+            "id": 16,
+            "name": "French fries with Cheese",
+            "image": "https://ik.imagekit.io/znex04bydzr/dinner/dinner4_2tQycyqZ36.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666169463227",
+            "price": 8.99,
+            "description": "How we dream about our future"
+        },
+        {
+            "id": 17,
+            "name": "Gurlic Butter Baked Salmon",
+            "image": "https://ik.imagekit.io/znex04bydzr/dinner/dinner3_N2jFcng1a.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666169461898",
+            "price": 6.99,
+            "description": "How we dream about our future"
+        },
+        {
+            "id": 18,
+            "name": "Baked Chicken",
+            "image": "https://ik.imagekit.io/znex04bydzr/dinner/dinner1_aDx41LlrJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666169463057",
+            "price": 9.99,
+            "description": "How we dream about our future"
+        }
+    ]
+}

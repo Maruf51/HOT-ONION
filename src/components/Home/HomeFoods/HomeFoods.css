@@ -1,0 +1,9 @@
+.meal_selection {
+    width: 275px;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+.meal_active {
+    
+}
